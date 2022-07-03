@@ -1,0 +1,1 @@
+{"buildTargets":["build-and-deploy-stack","build-and-tag-image","deploy-stack","dev-down","run-dev","stack-down"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
